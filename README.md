@@ -9,23 +9,23 @@ Ultimately there was no visual change to the webpage, as that was not my goal an
 The site is deployed at: 
 (https://pazoraf.github.io/HTML-CSS-Git-Code-Refactor-Challenge/)
 
-```md
+
 ![Horiseon Web Page](assets/images/Horiseon-readme-screenshot.png)
-```
+
 ## Installation
 
 1. Navigate to code button on the github repository.
-```md
+
 ![Installation step 1](assets/images/installation-step1.png)
-```
+
 2. Download repository via your preffered means.
-```md
+
 ![Installation step 2](assets/images/installation-step2.png)
-```
+
 3. Open repository in VSS or similar editor.
-```md
+
 ![Installation step 3](assets/images/installation-step3.png)
-```
+
 
 ## Usage 
 
@@ -33,19 +33,19 @@ There are two methods to use the project
 ### Usage method 1
 1. In VSS, or similar editor, open the repository as instructed in the installation steps.
 2. Navigate to index.html to view the HTML code.
-```md
-![Usage html](assets/images/usage1.png)
-```
+
+![Usage html](assets/images/Usage1.png)
+
 3. Navigate to style.css inside assets/css to view the CSS code.
-```md
-![Usage css](assets/images/usage2.png)
-```
+
+![Usage css](assets/images/Usage2.png)
+
 ### Usage method 2
 1. Open the deployed website at (https://pazoraf.github.io/HTML-CSS-Git-Code-Refactor-Challenge/) in google chrome.
 2. Right click anywhere on the page and select inspect.
-```md
+
 ![Usage google chrome inspect ](assets/images/usage3.png)
-```
+
 3. Use the developer tools to inspect both the HTML and CSS.
 
 ![Usage chrome developer tools](assets/images/Usage4.png)
