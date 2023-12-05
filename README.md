@@ -48,7 +48,7 @@ There are two methods to use the project
 ```
 3. Use the developer tools to inspect both the HTML and CSS.
 
-![Usage chrome developer tools](assets/images/usage4.png)
+![Usage chrome developer tools](assets/images/Usage4.png)
 
 
 ## Credits
