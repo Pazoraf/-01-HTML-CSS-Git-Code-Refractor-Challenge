@@ -44,7 +44,7 @@ There are two methods to use the project
 1. Open the deployed website at (https://pazoraf.github.io/HTML-CSS-Git-Code-Refactor-Challenge/) in google chrome.
 2. Right click anywhere on the page and select inspect.
 
-![Usage google chrome inspect ](assets/images/usage3.png)
+![Usage google chrome inspect ](assets/images/Usage3.png)
 
 3. Use the developer tools to inspect both the HTML and CSS.
 
