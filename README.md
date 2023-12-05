@@ -74,11 +74,11 @@ There are two methods to use the project.
 
 
 Resources:
--[W3Schools Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
--[w3Schools Accesibility Tutorial](https://www.w3schools.com/accessibility/index.php)
--[W3Schools img alt Attribute](https://www.w3schools.com/tags/att_img_alt.asp)
--[CanAdapt Alternate Text for Background Images](https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
--[Markdown Syntax](https://www.markdownguide.org/basic-syntax/#links)
+- [W3Schools Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [w3Schools Accesibility Tutorial](https://www.w3schools.com/accessibility/index.php)
+- [W3Schools img alt Attribute](https://www.w3schools.com/tags/att_img_alt.asp)
+- [CanAdapt Alternate Text for Background Images](https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
+- [Markdown Syntax](https://www.markdownguide.org/basic-syntax/#links)
 
 ## License
 Copyright (c) 2023 Alexander Flaherty.
