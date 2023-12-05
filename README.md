@@ -6,8 +6,7 @@ The purpose of this project was to refactor existing code provided to be by a ma
 My aim during this project was to improve accessibility by including semantic elements and selectors instead of generic div containers, to apply accesible alt attributes to images and icons and to apply a concise and descriptive title. I also employed the **Scout Rule** during my work, and tried to tidy and clean the code to the best of my ability. I did this by ensuring the HTML elements follow a logical structure, and by ensuring that selectors within the style sheet fell in sequential order in relation to the html file. I also included comment annotations throughout the code to display any changes I have made and explain my reasoning.
 Ultimately there was no visual change to the webpage, as that was not my goal and not what I was hired for, instead the changes I have made go on behind the scenes, and have improved accessibility for search engine optimisation and functionality with screen readers.
 
-The site is deployed at: 
-(https://pazoraf.github.io/HTML-CSS-Git-Code-Refactor-Challenge/)
+The site is deployed [here.](https://pazoraf.github.io/HTML-CSS-Git-Code-Refactor-Challenge/)
 
 
 ![Horiseon Web Page](assets/images/Horiseon-readme-screenshot.png)
@@ -53,8 +52,14 @@ There are two methods to use the project
 
 ## Credits
 
-Resources: (https://www.w3schools.com/html/html5_semantic_elements.asp)
-
-
+Resources: 
+[W3Schools Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+[w3Schools Accesibility Tutorial](https://www.w3schools.com/accessibility/index.php)
+[W3Schools img alt Attribute](https://www.w3schools.com/tags/att_img_alt.asp)
+[CanAdapt Alternate Text for Background Images](https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
+[Markdown Syntax](https://www.markdownguide.org/basic-syntax/#links)
 
 ## License
+Copyright (c) 2023 Alexander Flaherty.
+
+Licensed under the [MIT](LICENSE.txt) license.
