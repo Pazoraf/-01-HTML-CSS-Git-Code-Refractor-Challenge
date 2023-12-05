@@ -8,7 +8,7 @@ My aim during this project was to improve accessibility by including semantic el
 Ultimately, there was no visual change to the webpage, as that was not my goal and not what I was hired for; instead, the changes I have made go on behind the scenes and have improved accessibility for search engine optimisation and functionality with screen readers.
 
 
-The site is deployed [here.] (https://pazoraf.github.io/HTML-CSS-Git-Code-Refactor-Challenge/)
+The site is deployed [here.](https://pazoraf.github.io/HTML-CSS-Git-Code-Refactor-Challenge/)
 
 
 
@@ -74,11 +74,11 @@ There are two methods to use the project.
 
 
 Resources:
-[W3Schools Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
-[w3Schools Accesibility Tutorial](https://www.w3schools.com/accessibility/index.php)
-[W3Schools img alt Attribute](https://www.w3schools.com/tags/att_img_alt.asp)
-[CanAdapt Alternate Text for Background Images](https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
-[Markdown Syntax](https://www.markdownguide.org/basic-syntax/#links)
+-[W3Schools Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+-[w3Schools Accesibility Tutorial](https://www.w3schools.com/accessibility/index.php)
+-[W3Schools img alt Attribute](https://www.w3schools.com/tags/att_img_alt.asp)
+-[CanAdapt Alternate Text for Background Images](https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
+-[Markdown Syntax](https://www.markdownguide.org/basic-syntax/#links)
 
 ## License
 Copyright (c) 2023 Alexander Flaherty.
